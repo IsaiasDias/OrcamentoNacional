@@ -3,13 +3,13 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package trabalhogcm;
+package orcamentonacional;
 
 /**
  *
  * @author Isaias
  */
-public class TrabalhoGCM {
+public class OrcamentoNacional {
 
     /**
      * @param args the command line arguments

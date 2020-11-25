@@ -64,6 +64,8 @@ public class Municipio {
         this.gastos = gastos;
     }
     
-    
+    public void listarEstados(){
+        
+    }
     
 }
